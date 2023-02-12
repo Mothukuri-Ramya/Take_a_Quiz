@@ -1,0 +1,73 @@
+*
+{
+    margin:0px;
+    background-image:url("img/11.jpeg");
+    background-size: cover;
+}
+
+.b1
+{
+    
+    float:left;
+    margin-left: 50px;
+    margin-bottom:50px;
+    margin-top:30px;
+ 
+}
+
+.b1-title
+{
+    font-family: "Trirong";
+    text-align:center;
+    font-size:17px;
+    color:navy;
+    margin-bottom: 5px;
+    
+}
+
+.img1
+{
+    height:250px;
+    width:150px;
+    border-radius:5px;
+    cursor:pointer;
+    border: 2px solid white;
+    transition: all .3s ease-in-out;
+    filter: drop-shadow(2px 2px 2px gray);
+  
+}
+
+.img1:hover   {
+    transform: scale(1.2);
+  }
+.books
+{
+   
+    font-family:"sofia";
+    margin-bottom:20px;
+    text-align: center;
+    color:rgb(12, 12, 59);
+}
+
+.c
+{
+  margin: 180px;
+}
+
+.home
+{
+    
+    font-size:25px;
+    padding-left:78pc;
+    margin-top:20px;
+    
+}
+#home
+{
+    padding:10px 15px;
+    border-radius: 10px;
+    border:1px solid rgb(173, 160, 160);
+    background-color: rgb(36, 55, 80);
+    color:white;
+    cursor:pointer;
+}
